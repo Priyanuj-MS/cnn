@@ -22,10 +22,9 @@ Technically, the output should have followed the first order, however due to tim
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Initially the model definitely overfits (based on first iteration)
+- Batch Normalization underfits the model as can be seen by the accuracy and loss over epochs graph as it is very zig zag
+- Other techniques needs to be applied on top of this, maybe more drop outs to get better results
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
